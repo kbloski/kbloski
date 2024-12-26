@@ -1,3 +1,6 @@
+Cześć! 👋 To tutaj dzielę się projektami, które rozwijam, by pogłębiać swoje umiejętności w Frontendzie i Backendzie. Przykładam wagę do jakości kodu jak i praktycznego praktycznego zastosowania moich rozwiązań.
+
+Zapraszam do obejrzenia moich repozytoriów! 😊
 
 <!--
 **kbloski/kbloski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
