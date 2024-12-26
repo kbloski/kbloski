@@ -1,6 +1,6 @@
 Cześć! Nazywam się Kamil...
 
-👋 To tutaj dzielę się projektami, które rozwijam, by pogłębiać swoje umiejętności w Frontendzie i Backendzie. Przykładam wagę do jakości kodu jak i praktycznego praktycznego zastosowania moich rozwiązań.
+👋 i To tutaj dzielę się projektami, które rozwijam, by pogłębiać swoje umiejętności w Frontendzie i Backendzie. Przykładam wagę do jakości kodu jak i praktycznego praktycznego zastosowania moich rozwiązań.
 
 Zapraszam do obejrzenia moich repozytoriów! 😊
 
